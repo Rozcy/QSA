@@ -1,4 +1,4 @@
-# Advanced Quantum Superposition Arithmetic (QSA): Further Speculative Developments
+# Advanced Quantum Superposition Arithmetic (QSA):
 
 ## Theoretical Extensions
 
